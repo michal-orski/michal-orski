@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lonnger
-- 👀 I am interested in a creating applications in C# (from desktop applications to microservices) and creating games (Unity 3D)
-- 🌱 I’m currently learning .NET 5
-- 💞️ I’m looking to collaborate on with interesting people
-- 📫 How to reach me: via this page
+- 👋 Hi/Hello/Welkome/Witaj
+- 
+If you have reached here, that must meen you had to interested in me or my projects. I'm very happy about this and I hope you won't be disappointed. On my github I share projects I had created and can boast about them - unfortunately many thinks created by me have licensed and github is small part hobby for me.
+
+
 
 <!---
 Lonnger/Lonnger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
